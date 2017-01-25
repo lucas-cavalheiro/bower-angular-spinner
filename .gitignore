@@ -1,6 +1,2 @@
-.idea
-node_modules
-coverage
 .history
 .vscode
-dist
